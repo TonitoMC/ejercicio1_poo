@@ -1,6 +1,8 @@
 /**
  * @author José Mérida y Sophié Cleaves
  * @version 1.0
+ * Fecha de creación: 13-08-2023
+ * Última actualización: 15-08-2023
  */
 
 import java.util.Scanner;
