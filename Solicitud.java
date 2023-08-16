@@ -8,7 +8,6 @@ import java.util.Scanner;
  * @Param boletos cantidad de boletos
  * @Param presupuesto el presupuesto del comprador
  */
-/
 public class Solicitud {
     private int ticket;
     public boolean valid;
